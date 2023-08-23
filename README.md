@@ -9,7 +9,7 @@
 - 🔨 &nbsp; A Software Industry worker with a bachelor's degree in Automotive Engineering and master's degree in Business.
 - 💼 &nbsp; Worked as a Automotive Engineer, Programmer, and currently working in a software company's BizOps team.
 - 💡 &nbsp; Learning more about new programming languanges, tools, and Cloud.
-- 🏂 &nbsp; Like but not good at Snowboarding. Aiming to obtain a snowboarding instructor certification in the coming years (As a backup in case I were to get fired from the current company🤣).
+- 🏂 &nbsp; Like but not good at Snowboarding. Let's meet at <a href="https://goo.gl/maps/MAZRZ3YNcWXr3dMp8">Yuzawa</a> this winter!
 
 
 
