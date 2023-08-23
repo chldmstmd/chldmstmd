@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-<h2> I'm Cui, a person walking on the path of learning. </h2>
+<h2> Hi there 👋 <br> <br>I'm Cui, a person walking on the path of learning. </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -24,7 +21,10 @@
   <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib" />  
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau" />  
   <img alt="Catia" src="https://img.shields.io/badge/-Catia-333333?style=flat&logo=dassault%20syst%C3%A8mes" />  
-  <img alt="CAD" src="https://img.shields.io/badge/-CAD-333333?style=flat&logo=autodesk" />    
+  <img alt="CAD" src="https://img.shields.io/badge/-CAD-333333?style=flat&logo=autodesk" />  
+  <img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=Git" />  
+
+
 
     
 </div>
