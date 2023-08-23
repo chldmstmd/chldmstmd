@@ -15,7 +15,21 @@
 
 <h3> 🔨 &nbsp;Skill Set </h3>
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+<div style="display: inline-block;">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" /> 
+  <img alt="R(Statistics)" src="https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3" />
+  <img alt="postgres" src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" />
+  <img alt="sklearn" src="https://img.shields.io/badge/-sklearn-333333?style=flat&logo=scikit-learn" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib" />  
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau" />  
+  <img alt="Catia" src="https://img.shields.io/badge/-Catia-333333?style=flat&logo=dassault%20syst%C3%A8mes" />  
+  <img alt="CAD" src="https://img.shields.io/badge/-CAD-333333?style=flat&logo=autodesk" />    
+
+    
+</div>
+
+
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
