@@ -6,12 +6,16 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🌐 &nbsp; An Enthnic Korean born in China, living in Japan, and working in a company in which people speak English.
-- 🔨 &nbsp; A Software Industry worker with a bachelor's degree in Automotive Engineering and master's degree in Business.
+- 🎓 &nbsp; A Software Industry worker with a bachelor's degree in Automotive Engineering and master's degree in Business.
 - 💼 &nbsp; Worked as a Automotive Engineer, Programmer, and currently working in a software company's BizOps team.
-- 💡 &nbsp; Learning more about new programming languanges, tools, and Cloud.
+- 🌱 &nbsp; Learning more about new programming languanges, tools, and Cloud.
 - 🏂 &nbsp; Like but not good at Snowboarding. Let's meet at <a href="https://goo.gl/maps/MAZRZ3YNcWXr3dMp8">Yuzawa</a> this winter!
 
 
+
+<h3> 🔨 &nbsp;Skill Set </h3>
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
