@@ -8,10 +8,9 @@
 - 🌱 &nbsp; Learning more about new programming languanges, tools, and Cloud.
 - 🏂 &nbsp; Like but not good at Snowboarding. Let's meet at <a href="https://goo.gl/maps/MAZRZ3YNcWXr3dMp8">Yuzawa</a> this winter!
 
-
-
+<br>
 <h3> 🔨 &nbsp;Skill Set </h3>
-- 💻 &nbsp;
+- 💻 &nbsp; Professional Skills
 <div style="display: inline-block;">
   <img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" /> 
   <img alt="R(Statistics)" src="https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3" />
@@ -23,15 +22,29 @@
   <img alt="Catia" src="https://img.shields.io/badge/-Catia-333333?style=flat&logo=dassault%20syst%C3%A8mes" />  
   <img alt="CAD" src="https://img.shields.io/badge/-CAD-333333?style=flat&logo=autodesk" />  
   <img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=Git" />  
-
-
-
-    
 </div>
+- ⚙️ &nbsp; Collaboration
+<div style="display: inline-block;">
+  <img alt="Jira" src="https://img.shields.io/badge/-Jira-333333?logo=Jira" /> 
+  <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-333333?logo=Confluence" />
+  <img alt="slack" src="https://img.shields.io/badge/-Slack-333333?logo=Slack" />
+  <img alt="Lucidchart" src="https://img.shields.io/badge/-Lucidchart-333333?logo=lucidchart" />
+</div> 
+- 📜 &nbsp; Certification
+<div style="display: inline-block;">
+  <img alt="Google Data Analytics" src="https://img.shields.io/badge/-Google%20Data%20Analytics-333333?logo=google" /> 
+</div> 
+<br>
+<h3> ✍️ &nbsp;In Learning </h3>
+<div style="display: inline-block;">
+  <img alt="Go" src="https://img.shields.io/badge/-Go%20Language-333333?logo=Go" /> 
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-333333?logo=Kotlin" />
+  <img alt="Oauth" src="https://img.shields.io/badge/-Oauth2.0-333333?logo=Oauth" />
+  <img alt="OpenID" src="https://img.shields.io/badge/-OpenID-333333?logo=openid" />
+  <img alt="Keycloak" src="https://img.shields.io/badge/-Keycloak-333333?logo=Keycloak" />
+</div> 
 
-
-
-
+<br>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
