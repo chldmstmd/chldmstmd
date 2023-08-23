@@ -1,5 +1,29 @@
 ### Hi there 👋
 
+
+<h2> I'm Cui, a person walking on the path of learning. </h2>
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🌐 &nbsp; An Enthnic Korean born in China, living in Japan, and working in a company in which people speak English.
+- 🔨 &nbsp; A Software Industry worker with a bachelor's degree in Automotive Engineering and master's degree in Business.
+- 💼 &nbsp; Worked as a Automotive Engineer, Programmer, and currently working in a software company's BizOps team.
+- 💡 &nbsp; Learning more about new programming languanges, tools, and Cloud.
+- 🏂 &nbsp; Like but not good at Snowboarding. Aiming to obtain a snowboarding instructor certification in the coming years (As a backup in case I were to get fired from the current company🤣).
+
+
+
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ensheng-cui-785624222/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ensheng%20Cui-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:cuiensheng0@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-cuiensheng0@163.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+
+
+
 <!--
 **chldmstmd/chldmstmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
