@@ -39,9 +39,11 @@
 <div style="display: inline-block;">
   <img alt="Go" src="https://img.shields.io/badge/-Go%20Language-333333?logo=Go" /> 
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-333333?logo=Kotlin" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-333333?logo=java" />
   <img alt="Oauth" src="https://img.shields.io/badge/-Oauth2.0-333333?logo=Oauth" />
   <img alt="OpenID" src="https://img.shields.io/badge/-OpenID-333333?logo=openid" />
   <img alt="Keycloak" src="https://img.shields.io/badge/-Keycloak-333333?logo=Keycloak" />
+  <img alt="Quarkus" src="https://img.shields.io/badge/-Quarkus-333333?logo=Quarkus" />
 </div> 
 
 <br>
